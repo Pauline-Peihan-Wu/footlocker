@@ -1,0 +1,20 @@
+.ui.borderless.topmenu.menu {
+  background-color: rgba(0,0,0,1);
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+.footer-background {
+  background-color: #292929;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+body {
+  background-color: rgba(0,0,0,1);
+}
