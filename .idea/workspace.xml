@@ -160,8 +160,7 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="636" y="37" width="765" height="969" extended-state="1" />
-    <editor active="true" />
+    <frame x="636" y="37" width="765" height="969" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
