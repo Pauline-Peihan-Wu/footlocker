@@ -1,28 +1,53 @@
-.ui.borderless.topmenu.menu {
+.ui.borderless.menu {
   box-shadow: none;
   border: none;
+  float: right;
+  margin-top: 15px;
+  margin-right: 95px;
+  margin-left: 300px;
+  padding-left: 200px;
+  padding-bottom: 5px;
 }
 
-.ui.label {
-  background-color: white;
-  text-color: black;
-}
-
-img {
+.ui.image {
   height: 95px;
-  margin-left: .625em;
+  margin-left: 4em;
   margin-top: 0;
   width: 131px;
 }
 
-.ui.borderless.middlemenu.menu {
-  box-shadow: none;
-  border: none;
+.ui.borderless.menu a{
+  style: bold;
 }
+
+.ui.label {
+  padding-top: 12px;
+  padding-bottom: 10px;
+  margin-left: 100px;
+  margin-top: 10px;
+  background-color: white;
+  text-color: black;
+  float: right;
+}
+
+
+.Vans-background {
+  background: url(vans.png) no-repeat center center fixed;
+  background-size: cover;
+  height: 700px;
+  color: white;
+}
+
 .footer-background {
   background-color: #1c1c1c;
-  color: white;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  color: #8d9293;
+  overflow: hidden;
+  padding:40px 0;
+  border: 20px;
+  text: bold;
+}
+
+.ui.list {
+  color: #589BC6;
 }
 
