@@ -1,7 +1,18 @@
 .ui.borderless.topmenu.menu {
-  background-color: rgba(0,0,0,1);
   box-shadow: none;
   border: none;
+}
+
+.ui.label {
+  background-color: white;
+  text-color: black;
+}
+
+img {
+  height: 95px;
+  margin-left: .625em;
+  margin-top: 0;
+  width: 131px;
 }
 
 .ui.borderless.middlemenu.menu {
@@ -9,12 +20,9 @@
   border: none;
 }
 .footer-background {
-  background-color: #292929;
+  background-color: #1c1c1c;
   color: white;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
-body {
-  background-color: rgba(0,0,0,1);
-}
