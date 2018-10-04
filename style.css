@@ -7,6 +7,7 @@
   margin-left: 300px;
   padding-left: 200px;
   padding-bottom: 5px;
+  font-weight: bold;
 }
 
 .ui.image {
@@ -14,10 +15,6 @@
   margin-left: 4em;
   margin-top: 0;
   width: 131px;
-}
-
-.ui.borderless.menu a{
-  style: bold;
 }
 
 .ui.label {
@@ -29,7 +26,6 @@
   text-color: black;
   float: right;
 }
-
 
 .Vans-background {
   background: url(vans.png) no-repeat center center fixed;
@@ -44,7 +40,7 @@
   overflow: hidden;
   padding:40px 0;
   border: 20px;
-  text: bold;
+  font-weight: bold;
 }
 
 .ui.list {
